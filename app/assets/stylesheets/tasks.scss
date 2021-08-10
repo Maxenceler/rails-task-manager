@@ -1,0 +1,25 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+li {
+  list-style: none;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  background-color: grey;
+  padding: 5px;
+}
+
+a:hover {
+  color: orange;
+}
+
+.button {
+  border-radius: 10px;
+  background-color: hotpink;
+  margin-left: 400px;
+}
